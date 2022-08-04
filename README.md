@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <a href="https://twitter.com/kawanua" target="blank"><img src="https://img.shields.io/twitter/follow/kawanua?logo=twitter" alt="@kawanua" /></a> </p>
+
 <!--
 **kawanuaid/kawanuaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
