@@ -1,7 +1,7 @@
 ![github-header-image](https://k2.imgix.net/bg-cover-kawanuaid.png?fm=webp)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=050B8D&width=435&lines=Halo+semua;Kawanua+Indo+Digital" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D08700&width=435&lines=Halo+semua;Kawanua+Indo+Digital" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawanuaid&label=Profile%20views&color=D08700&style=flat-square" alt="kawanuaid" /></p>
 
